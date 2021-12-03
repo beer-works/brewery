@@ -1,6 +1,6 @@
-package com.aj.brewery.services;
+package com.beer_works.brewery.services;
 
-import com.aj.brewery.web.model.CustomerDto;
+import com.beer_works.brewery.web.model.CustomerDto;
 
 import java.util.UUID;
 

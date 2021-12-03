@@ -1,6 +1,6 @@
-package com.aj.brewery.services.v2;
+package com.beer_works.brewery.services.v2;
 
-import com.aj.brewery.web.model.v2.BeerDtoV2;
+import com.beer_works.brewery.web.model.v2.BeerDtoV2;
 import org.springframework.stereotype.Service;
 
 import java.util.UUID;

@@ -1,4 +1,4 @@
-package com.aj.brewery.web.model;
+package com.beer_works.brewery.web.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

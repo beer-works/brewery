@@ -1,6 +1,6 @@
-package com.aj.brewery.services;
+package com.beer_works.brewery.services;
 
-import com.aj.brewery.web.model.CustomerDto;
+import com.beer_works.brewery.web.model.CustomerDto;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 

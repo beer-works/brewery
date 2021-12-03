@@ -1,7 +1,7 @@
-package com.aj.brewery.web.controller;
+package com.beer_works.brewery.web.controller;
 
-import com.aj.brewery.services.CustomerService;
-import com.aj.brewery.web.model.CustomerDto;
+import com.beer_works.brewery.services.CustomerService;
+import com.beer_works.brewery.web.model.CustomerDto;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
