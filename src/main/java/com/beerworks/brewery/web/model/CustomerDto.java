@@ -1,4 +1,4 @@
-package com.beer_works.brewery.web.model;
+package com.beerworks.brewery.web.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -11,10 +11,7 @@ import java.util.UUID;
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
-public class BeerDto {
-
+public class CustomerDto {
     private UUID id;
-    private String beerName;
-    private String beerStyle;
-    private Long upc;
+    private String name;
 }

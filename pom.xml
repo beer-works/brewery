@@ -8,7 +8,7 @@
 		<version>2.6.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.aj</groupId>
+	<groupId>com.beer-works</groupId>
 	<artifactId>brewery</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>brewery</name>

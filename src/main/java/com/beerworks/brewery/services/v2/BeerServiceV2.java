@@ -1,6 +1,6 @@
-package com.beer_works.brewery.services.v2;
+package com.beerworks.brewery.services.v2;
 
-import com.beer_works.brewery.web.model.v2.BeerDtoV2;
+import com.beerworks.brewery.web.model.v2.BeerDtoV2;
 
 import java.util.UUID;
 

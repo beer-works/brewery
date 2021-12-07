@@ -1,4 +1,4 @@
-package com.beer_works.brewery;
+package com.beerworks.brewery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
